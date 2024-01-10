@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emicalapp/static/css/main.6d565656.css",
+    "main.js": "/emicalapp/static/js/main.56dd6072.js",
+    "index.html": "/emicalapp/index.html",
+    "main.6d565656.css.map": "/emicalapp/static/css/main.6d565656.css.map",
+    "main.56dd6072.js.map": "/emicalapp/static/js/main.56dd6072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d565656.css",
+    "static/js/main.56dd6072.js"
+  ]
+}
